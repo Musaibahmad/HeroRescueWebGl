@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1081208301341",
+    "project_id": "hero-rescue-9bf25",
+    "storage_bucket": "hero-rescue-9bf25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081208301341:android:a1a9b172df0b54345123f4",
+        "android_client_info": {
+          "package_name": "com.kingdomquest.heroknightrescue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081208301341-bjoufrj0hj5e1n1gv48is5m2acj4pcg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmitddF0Rpmk5g3fs3xKzuSpYI8OfIlQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081208301341-bjoufrj0hj5e1n1gv48is5m2acj4pcg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
